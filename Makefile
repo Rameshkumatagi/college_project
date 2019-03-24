@@ -6,4 +6,4 @@ project.o: project.cpp
 	$(CXX) -std=c++11 -c  project.cpp
 
 clean:
-	rm project
+	rm project project.o
