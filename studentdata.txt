@@ -1,0 +1,12 @@
+#Enter student name, class, branch and percentage in same order
+#feilds are separated by comma. data begins from 3rd line
+
+Ramesh,80,science,11
+Suresh,90,science,12
+ganesh,45,science,12
+robin,78,arts,11
+girish,88,arts,11
+mayank,90,arts,12
+swati,68,arts,12
+kavya,30,science,11
+prashant,30,arts,11
