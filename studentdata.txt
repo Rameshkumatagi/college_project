@@ -10,3 +10,5 @@ mayank,90,arts,12
 swati,68,arts,12
 kavya,30,science,11
 prashant,30,arts,11
+akash,88,arts,12
+spoorthi,94,science,12
