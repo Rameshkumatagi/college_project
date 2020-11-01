@@ -57,6 +57,12 @@ class student
 			std::string getBranch() const { return _branch; }
 			int getCls() const { return _std; }
 			float getScore() const { return _score; }
+			bool operator==(const student& other)
+			{
+				if(_name == other._name)
+					return true;
+				return false;
+			}
 };
 
 int student::sciCnt=0;
