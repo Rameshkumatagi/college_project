@@ -1,5 +1,5 @@
-#Enter student name, class, branch and percentage in same order
-#feilds are separated by comma. data begins from 3rd line
+#Enter student name, percentage, branch and  class in same order
+#feilds are separated by comma. data begins from 4th line
 
 Ramesh,80,science,11
 Suresh,90,science,12
